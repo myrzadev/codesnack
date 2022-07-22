@@ -15,4 +15,4 @@ city = ['Vienna', 'Berlin', 'Sarajevo', 'New York']
 continent = ['Europe', 'Europe', 'Europe', 'North America']
 
 for value in zip(country, city, continent):
-    print(value) 
+    print(value)
